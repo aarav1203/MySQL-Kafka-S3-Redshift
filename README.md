@@ -6,7 +6,7 @@ Problem Statement:
 We need to build an ETL pipeline to dump mysql data base record to redshift using kafka
 ![MY SQL DATABASE](./diagrams/mysql-oltp-database.png)
 
-# Techstack Used
+👨‍💻# Techstack Used
 1. AWS
 2. KAFKA
 3. MYSQL
