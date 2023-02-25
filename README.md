@@ -20,7 +20,7 @@ We need to build an ETL pipeline to dump mysql data base record to redshift usin
  4. Confluent Kafka
 
 
-RedShift Dataware house
+# RedShift Dataware house
 ![Red Shift](./diagrams/redshift-olap-diagram.png)
 Approach
 1. Read data from mysql and  send to kafka topic and from kafka topic we will dump to s3 bucket
