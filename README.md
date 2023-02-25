@@ -6,6 +6,17 @@ Problem Statement:
 We need to build an ETL pipeline to dump mysql data base record to redshift using kafka
 ![MY SQL DATABASE](./diagrams/mysql-oltp-database.png)
 
+# Techstack Used
+1. AWS
+2. KAFKA
+3. MYSQL
+
+# Environment Used
+ 1. AWS S3 Bucket
+ 2. AWS Redshift
+ 3. VISUAL STUDIO CODE
+ 4. Confluent Kafka
+
 
 RedShift Dataware house
 ![Red Shift](./diagrams/redshift-olap-diagram.png)
